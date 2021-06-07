@@ -27,7 +27,7 @@ function TitleCase(name){
     return nameCap.slice(0,nameCap.length-1);
 }
 function MakeLink(name){
-    let leetlink = 'https://leetcode.com/problems/'
+    let leetlink = 'https://interviewbit.com/problems/'
     leetlink += name+'/'
     console.log(TitleCase(name));
     return '['+TitleCase(name)+']('+leetlink+')';
