@@ -5,7 +5,7 @@ const Mustache = require('mustache');
 
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
-const directoryPath = path.join(__dirname, 'leetcode');
+const directoryPath = path.join(__dirname, 'interviewbit');
 
 var qn = [];
 var diff = [];
