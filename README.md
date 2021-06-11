@@ -1,9 +1,9 @@
 # Automatic Competitive Progress Tracker
-Problems Solved: **1**
+Problems Solved: **2**
 
 |Easy| Medium |Hard| 
 |:---:|:---:|:---:|
-| 1/490 | 0/984 | 0/394 |
+| 2/490 | 0/984 | 0/394 |
 
 </br>
 
@@ -11,6 +11,7 @@ Problems Solved: **1**
 |#| Title |Difficulty| 
 |:---:|:---|:---:|
 1 |[Smaller Or Equal Elements](https:&#x2F;&#x2F;interviewbit.com&#x2F;problems&#x2F;smaller-or-equal-elements&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
+2 |[Oopcmpl](https:&#x2F;&#x2F;interviewbit.com&#x2F;problems&#x2F;oopcmpl&#x2F;) |![Easy](https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Easy-43A047.svg)|
 
 </br></br>
 
